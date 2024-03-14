@@ -1,0 +1,28 @@
+.top{
+    background-color: orange;
+    height: 40px;
+    padding-top:10px;
+    font-size: 20px;
+    color: white;
+}
+.begin{
+    width: 700px;
+    margin:0 auto; 
+}
+.main{
+    width: 700px;
+    padding : 10px;
+    padding-right: 30px;
+    border:black solid 1px;
+    border-radius: 10px;
+    margin:0 auto; 
+}
+.dep1{
+    line-height: 3em;
+}
+.dep2{
+    line-height: 1.5em;
+}
+.dep3{
+    line-height: 1.5em;
+}

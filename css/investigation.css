@@ -1,0 +1,90 @@
+.iv-wrap-right-menu {
+    float: left;
+    width: 700px;
+    margin-top: 15px;
+}
+.iv-wrap-right-menu .iv-wrap-right-menu_1 {
+    width: 100%;
+    border: 3px solid #efefef;
+}
+.iv-wrap-right-menu .iv-wrap-right-menu_1 ul {
+    margin: 10px;
+}
+.iv-wrap-right-menu .iv-wrap-right-menu_1 li {
+    line-height: 20px;
+    margin-left: 20px;
+}
+.iv-wrap-right-main_box {
+    background: #ABC7DD;
+    height: 2px;
+    color: #000;
+}
+.iv-wrap-right-main_img {
+    text-align: center;
+    font-weight: bold;
+    height: 23px;
+    padding: 2px 3px;
+    background: #FFF;
+    color: #000;
+}
+
+.iv-wrap-right-bt {
+    width: 710px;
+    float: left;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.iv-wrap-right-info {
+    float: left;
+    width: 686px;
+    padding: 10px;
+    border: 2px dashed #7AB0DB;
+    margin-bottom: 10px;
+}
+.iv-wrap-right-info_text {
+    font-size: 12px;
+    letter-spacing: -1px;
+}
+.iv-wrap-right-search {
+    float: right;
+    text-align: right;
+    width: 500px;
+    margin: 10px;
+}
+.btn_gray {
+    background: #FCFCFC;
+    color: #666;
+    border: 1px solid #D7D7D7;
+    cursor: pointer;
+    margin: 3px;
+    font-size: 12px;
+    padding: 3px 10px;
+}
+.iv-wrap-right-dic {
+    width: 710px;
+    float: left;
+    border-top: 1px solid #DDD;
+    margin-bottom: 20px;
+}
+.iv-wrap-right-dic_box1 {
+    border-bottom: 1px dotted #CCC;
+    padding-left: 10px;
+    color: #000;
+    font-size: 12px;
+    text-decoration: none;
+    background: #F3F9FD;
+}
+.iv-wrap-right-dic_box1_1 {
+    width: 700px;
+    border-bottom: thin solid #CCC;
+    font-size: 12px;
+    padding: 10px;
+    background: #f9f9f9;
+    color: #000;
+}
+
+table.iv-wrap-right-search_table {border-top:2px solid #ABC7DD; width:710px}
+table.iv-wrap-right-search_table th{border-bottom:1px solid #DDD;font-weight:bold;text-align:center;height:25px;  padding:2px; color:#336699; background:#EFF4F8;}
+table.iv-wrap-right-search_table td{border-bottom:1px solid #DDD;text-align:center;height:23px;  padding:2px;}
+table.iv-wrap-right-search_table td .title_c{text-align:left;}

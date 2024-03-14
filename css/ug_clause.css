@@ -1,0 +1,15 @@
+.sitemap-wrap-right-content .sitem ul li a:hover {
+    color: #000;
+    background: #FFF;
+    text-decoration: underline
+}
+
+
+
+.no_style{list-style-type:none;line-height:150%;margin:0 0 0 10px;}
+
+.disc{list-style-type:decimal;line-height:150%;	margin:0 0 0 30px;padding:0;}
+
+.txt_detail{padding:1px 4px 2px 4px;text-decoration:underline;}
+.txt_detail_ut{font-weight:bold;padding:1px 4px 2px 4px;text-decoration:underline;}
+.txt_detail_u{padding:1px 4px 2px 0;letter-spacing:-1px}

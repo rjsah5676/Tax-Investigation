@@ -1,0 +1,37 @@
+.findaccount-wrap-right-content-box {
+    border: 2px solid #ABC7DD;
+    float: left;
+    width: 690px;
+    text-align: left;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 10px;
+}
+.findaccount-wrap-right-content-box-id_pw_find-id_box {
+    text-align: center;
+    height: 32px;
+    padding: 2px;
+    background: #FFF;
+    font-size: 12px;
+    color: #000;
+}
+.findaccount-wrap-right-content-box-id_pw_find-id_box-r {
+    text-align: right;
+    font-weight: bold;
+    height: 23px;
+    background: #F3EEEA;
+    color: #000;
+    font-size: 13px;
+}
+.findaccount-wrap-right-content-box-id_pw_find-id_box-l {
+    text-align: left;
+    height: 23px;
+    padding: 1px 4px 1px 4px;
+    background: #F3EEEA;
+    color: #000;
+}
+.findaccount-wrap-right-content-box-id_pw_find-id_box-c {
+    text-align: center;
+    height: 23px;
+    padding: 2px 3px;
+}

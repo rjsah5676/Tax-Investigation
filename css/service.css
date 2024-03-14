@@ -1,0 +1,25 @@
+.c_infobox1   {float:left;width:686px;border:2px solid #C2A992;padding:10px;}
+
+#paging {float:left;width:740px;text-align:center;height:23px;margin:20px 0 10px 0;}
+#paging a{color:#000;background:#FFF;text-decoration:none;}
+#paging a:visited{color:#000;background:#FFF;}
+#paging a:hover,#paging a:active {color:#0066cc;background:#FFF;}
+#paging1 {text-align:center;font-size:12px;white-space:nowrap;height:30px; background:#FFF; color:#000;}
+#paging1 a,#paging1 a:visited {color:#000;background:#FFF;}
+#paging1 a:hover,#paging1 a:active {color:#0066cc; text-decoration:none;background:#FFF;}
+
+#search_div{float:right;text-align:right;width:500px;margin:10px;}
+#search_div img{vertical-align:top;margin:0px;}
+#search_div .search_vertical{vertical-align:middle; }
+
+table.t_org{float:left;width:710px;border-top:2px solid #C2A992;margin-top:10px;}
+table.t_org th{border-bottom:1px solid #DDD;background:#F3EEEA;height:32px;color:#000}
+table.t_org td{border-bottom:1px solid #DDD;text-align:center;height:32px;}
+table.t_org td.title_o{border-bottom:1px solid #DDD;text-align:left;}
+table.t_org td.title_o a{text-decoration:none;color:#336699;background:#fff}
+table.t_org td.title_o a:hover{text-decoration:underline}
+
+.img_re{float:left; width:50%;}
+
+.btn_r_org{width:710px;float:left;text-align:right;margin-top:5px;margin-bottom:15px;}
+.btn_r_org input{background:#B3916D;color:#FFF;border:1px solid #93775D;cursor:pointer;margin:3px;font-size:14px;padding:3px 10px}

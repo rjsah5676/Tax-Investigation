@@ -1,0 +1,21 @@
+.login-wrap-right-login_box{
+    float: left;
+    width: 680px;
+    border: 2px solid #ABC7DD;
+    padding: 10px 10px 30px 10px;
+}
+.login-wrap-right-td_left {
+    text-align: right;
+    font-weight: bold;
+    height: 23px;
+    padding: 2px 5px 2px 5px;
+}
+.login-wrap-right-input {
+    width: 100px;
+    height: 17px;
+    letter-spacing: 0px;
+}
+.login-wrap-right-login_box table:nth-child(2) {
+    width: 200px;
+    margin: 0 auto;
+}

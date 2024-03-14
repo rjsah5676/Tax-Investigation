@@ -1,0 +1,51 @@
+.td_tw_l {
+    text-align: left;
+    font-weight: bold;
+    height: 23px;
+    padding: 3px 0 0 20px;
+}
+.td_text {
+    height: 20px;
+    padding: 3px 0 0;
+    font-size: small;
+}
+.sitemap-wrap-right-content {
+    float: left;
+    width: 710px;
+}
+.sitemap-wrap-right-content > .c_infobox {
+    float: left;
+    width: 686px;
+    padding: 10px;
+    border: 2px dashed #7AB0DB;
+    margin-bottom: 10px;
+}
+.sitemap-wrap-right-content > .c_infobox ul {
+    padding-left: 32px;
+    margin: 0 0 10px 10px;
+}
+.sitemap-wrap-right-content > .c_infobox li {
+    list-style-image: url('../image/ic_black_dot.gif');
+    margin: 0;
+}
+.sitemap-wrap-right-content .sitem ul {
+    line-height: 16px;
+    width: 10px;
+    margin-top: 5px;
+}
+.sitemap-wrap-right-content .sitem ul li {
+    list-style-image: url('../image/hyphen.gif');
+}
+.sitemap-wrap-right-content .sitem ul li a {
+    color: #000;
+    background: #FFF;
+    text-decoration: none
+}
+.sitemap-wrap-right-content .sitem ul li a:hover {
+    color: #000;
+    background: #FFF;
+    text-decoration: underline
+}
+
+
+
