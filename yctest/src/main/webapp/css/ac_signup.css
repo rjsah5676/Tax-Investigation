@@ -1,0 +1,115 @@
+.signup-wrap-right-content {
+    float: left;
+    width: 710px;
+}
+.signup-wrap-right-content-signup_box {
+    float: left;
+    width: 680px;
+    background: #f4f4f4;
+    color: #000;
+    padding: 10px;
+    line-height: 25px;
+    margin-bottom: 15px;
+}
+.signup-wrap-right-content-signup_box-bar {
+    float: left;
+    width: 330px;
+    height: 53px;
+    padding: 15px 0 0 20px;
+    margin-left: 10px;
+}
+.signup-wrap-right-content-signup_box-bar > .txt {
+    float: left;
+    width: 220px;
+}
+.signup-wrap-right-content-signup_box-bar > .txt > .txt1{
+    float: left;
+    font-size: 18px;
+    width: 210px;
+    font-weight: 600;
+    color: #3F77B9;
+    line-height: 18px;
+    background: #F4F4F4;
+}
+.signup-wrap-right-content-signup_box-bar > .txt > .txt2{
+    float: left;
+    margin-top: 5px;
+    width: 210px;
+    font-size: 13px;
+}
+.signup-wrap-right-content-signup_box-txt {
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+.signup-wrap-right-content-signup_box-txt > .inner_box {
+    float: left;
+    width: 650px;
+    border: 1px solid #CCC;
+    margin: 10px;
+    padding: 10px;
+    font-weight: 600;
+}
+.signup-wrap-right-content-signup_box-txt > ul {
+    margin-left: 10px;
+    padding: 0;
+    float: left;
+    line-height: 24px;
+    font-size: 12px;
+}
+.in_mem {
+    float: left;
+    width: 700px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.in_mem > .in_imgtxt {
+    float: left;
+    margin-left: 60px;
+    width: 600px;
+    text-align: left;
+}
+.in_mem > .in_imgtxt > .img_imgtxt {
+    float: left;
+}
+
+.in_mem > .in_imgtxt > .imgtxt {
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    width: 500px;
+}
+
+.signup_box {
+    float: left;
+    width: 700px;
+    text-align: center;
+    background: #f4f4f4;
+    border: 2px solid #DDD;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    color: #000;
+}
+.signup_box .signup_in {
+    margin: 0 auto;
+    width: 300px;
+}
+.td_t_r {
+    text-align: right;
+    font-weight: bold;
+    height: 23px;
+    padding: 2px 5px 2px 5px;
+}
+.td_t_l {
+    text-align: left;
+    font-weight: bold;
+    height: 23px;
+    padding: 2px 5px 2px 5px;
+}
+.btn_c {
+    width: 710px;
+    float: left;
+    text-align: center;
+    margin-top: 10px;
+}
